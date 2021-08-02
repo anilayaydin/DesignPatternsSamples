@@ -2,7 +2,7 @@
 
 I have exercise projects these contain:
 
-Creational Design Patterns:
+***Creational Design Patterns:
 
   -Singleton
 
@@ -12,7 +12,7 @@ Creational Design Patterns:
 
   -Builder
   
-Behavioral Design Patterns:
+***Behavioral Design Patterns:
   
   -State Design
 
