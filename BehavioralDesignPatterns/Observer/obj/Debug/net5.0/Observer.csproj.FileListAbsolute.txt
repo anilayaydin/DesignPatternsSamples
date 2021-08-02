@@ -1,0 +1,16 @@
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\Observer.exe
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\Observer.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\bin\Debug\net5.0\Observer.pdb
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.csprojAssemblyReference.cache
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.pdb
+C:\Training\DesignPatterns\BehavioralDesignPatterns\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\StateDesign.exe
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\StateDesign.deps.json
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\StateDesign.runtimeconfig.json
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\StateDesign.runtimeconfig.dev.json
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\StateDesign.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\ref\StateDesign.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\bin\Debug\net5.0\StateDesign.pdb
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.csprojAssemblyReference.cache
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.AssemblyInfoInputs.cache
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.AssemblyInfo.cs
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.csproj.CoreCompileInputs.cache
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\ref\StateDesign.dll
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.pdb
+C:\Training\DesignPatterns\BehavioralDesignPatterns\StateDesign\obj\Debug\net5.0\StateDesign.genruntimeconfig.cache

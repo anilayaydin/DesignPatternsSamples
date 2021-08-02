@@ -1,0 +1,16 @@
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\Builder.exe
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\Builder.dll
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.dll
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Training\DesignPatterns\CreationalDesignPatterns\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
