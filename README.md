@@ -2,27 +2,27 @@
 
 I have exercise projects these contain:
 
-Creational Design Patterns
+Creational Design Patterns:
 
-  Singleton
+  -Singleton
 
-  Factory
+  -Factory
 
-  Abstract Factory
+  -Abstract Factory
 
-  Builder
+  -Builder
   
-Behavioral Design Patterns
+Behavioral Design Patterns:
   
-  State Design
+  -State Design
 
-  Observer
+  -Observer
 
-  StrategyDesign
+  -StrategyDesign
 
-  Template
+  -Template
 
-  Visitor
+  -Visitor
   
   
   
